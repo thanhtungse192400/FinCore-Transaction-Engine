@@ -181,6 +181,6 @@ Toàn bộ các luồng nghiệp vụ cốt lõi đều được kiểm thử t�
 
 ## 👤 Author & Contact
 
-- **Author**: Nguyen Thanh Tung
+- **Author**: Tran Thanh Tung
 - **Project**: FinCore Transaction Engine
 - **Role**: Backend Developer / Software Engineer
