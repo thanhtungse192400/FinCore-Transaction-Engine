@@ -183,4 +183,4 @@ Toàn bộ các luồng nghiệp vụ cốt lõi đều được kiểm thử t�
 
 - **Author**: Tran Thanh Tung
 - **Project**: FinCore Transaction Engine
-- **Role**: Backend Developer / Software Engineer
+- **Role**: FullStack Developer / Software Engineer
